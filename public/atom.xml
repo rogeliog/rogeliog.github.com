@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Code and life]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-05-15T23:12:47+02:00</updated>
+  <updated>2012-05-15T23:29:36+02:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rogelio Guzman Huerta]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Ruby?]]></title>
+    <link href="http://yoursite.com/blog/2012/05/15/why-ruby/"/>
+    <updated>2012-05-15T23:20:00+02:00</updated>
+    <id>http://yoursite.com/blog/2012/05/15/why-ruby</id>
+    <content type="html"><![CDATA[<h2>I like ruby</h2>
+
+<ul>
+<li>fuck you</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test post]]></title>

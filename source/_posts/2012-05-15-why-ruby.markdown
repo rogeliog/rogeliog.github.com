@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Why Ruby?"
+date: 2012-05-15 23:20
+comments: true
+categories: 
+---
+
+## I like ruby
+
+* fuck you
