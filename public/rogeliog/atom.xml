@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code and life]]></title>
+  <link href="http://rogeliog.github.com/rogeliog/atom.xml" rel="self"/>
+  <link href="http://rogeliog.github.com/rogeliog/"/>
+  <updated>2012-05-17T19:09:08+02:00</updated>
+  <id>http://rogeliog.github.com/rogeliog/</id>
+  <author>
+    <name><![CDATA[Rogelio Guzman Huerta]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why Ruby?]]></title>
+    <link href="http://rogeliog.github.com/rogeliog/blog/2012/05/15/why-ruby/"/>
+    <updated>2012-05-15T23:20:00+02:00</updated>
+    <id>http://rogeliog.github.com/rogeliog/blog/2012/05/15/why-ruby</id>
+    <content type="html"><![CDATA[<h2>I like ruby</h2>
+
+<ul>
+<li>fuck you</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://rogeliog.github.com/rogeliog/blog/2012/05/15/test-post/"/>
+    <updated>2012-05-15T21:46:00+02:00</updated>
+    <id>http://rogeliog.github.com/rogeliog/blog/2012/05/15/test-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
